@@ -1,0 +1,7 @@
+org/raspinloop/orchestrator/api/EmulatorStartMessage.class
+org/raspinloop/orchestrator/api/SimulationStopped.class
+org/raspinloop/orchestrator/api/Status.class
+org/raspinloop/orchestrator/api/Starting.class
+org/raspinloop/orchestrator/api/Started.class
+org/raspinloop/orchestrator/api/ReadyForSimulation.class
+org/raspinloop/orchestrator/api/Stopped.class

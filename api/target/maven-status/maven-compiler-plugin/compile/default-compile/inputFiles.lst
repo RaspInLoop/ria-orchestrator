@@ -1,0 +1,8 @@
+/home/frma/private/raspinloop/ria-orchestrator/api/src/main/java/org/raspinloop/orchestrator/api/EmulatorStartMessage.java
+/home/frma/private/raspinloop/ria-orchestrator/api/src/main/java/org/raspinloop/orchestrator/api/Status.java
+/home/frma/private/raspinloop/ria-orchestrator/api/src/main/java/org/raspinloop/orchestrator/api/Stopped.java
+/home/frma/private/raspinloop/ria-orchestrator/api/src/main/java/org/raspinloop/orchestrator/api/Launched.java
+/home/frma/private/raspinloop/ria-orchestrator/api/src/main/java/org/raspinloop/orchestrator/api/ReadyForSimulation.java
+/home/frma/private/raspinloop/ria-orchestrator/api/src/main/java/org/raspinloop/orchestrator/api/Started.java
+/home/frma/private/raspinloop/ria-orchestrator/api/src/main/java/org/raspinloop/orchestrator/api/SimulationStopped.java
+/home/frma/private/raspinloop/ria-orchestrator/api/src/main/java/org/raspinloop/orchestrator/api/Starting.java
